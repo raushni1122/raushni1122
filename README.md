@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raushani Jha</h1>
-<h3 align="center">web developer</h3>
+<h2 align="center">web developer</h2>
 
 - 🌱 I’m currently learning **React js ,Sql**
 
