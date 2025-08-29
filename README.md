@@ -19,7 +19,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raushni1122&repo=collage-web&theme=dark)](https://github.com/raushni1122/collage-web)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raushni1122&repo=education&theme=dark)](https://github.com/raushni1122/education)
 
 
 [![](https://visitcount.itsvg.in/api?id=raushni1122&icon=0&color=0)](https://visitcount.itsvg.in)
