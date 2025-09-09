@@ -27,8 +27,22 @@
 ---
 
 # 🚀 My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raushni1122&repo=collage-web&theme=dark)](https://github.com/raushni1122/collage-web)
 
-[![](https://visitcount.itsvg.in/api?id=raushni1122&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+  <a href="https://github.com/raushni1122/collage-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raushni1122&repo=collage-web&theme=dark" />
+  </a>
+
+  <a href="https://github.com/raushni1122/travel-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raushni1122&repo=travel-website&theme=dark" />
+  </a>
+
+  <a href="https://github.com/raushni1122/clothing-ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raushni1122&repo=clothing-ecommerce&theme=dark" />
+  </a>
+
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
